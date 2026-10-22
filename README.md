@@ -17,5 +17,5 @@ Aplikasi dikembangkan menggunakan PHP, MySQL, HTML, dan CSS. **Laragon** digunak
 4. Impor file `pendataan_atlet.sql` ke database.
 5. Buka `http://localhost/pendataan_atlet/login.php` di browser.
 
-**Catatan:** Ganti `NAMA_FOLDER` sesuai nama folder proyek. Pastikan file SQL mencakup struktur tabel dan akun admin agar login dapat digunakan setelah database diimpor.
+**Catatan:** Pastikan nama folder proyek sesuai dengan alamat yang digunakan. Jika nama folder berbeda, sesuaikan alamat localhost.
 
