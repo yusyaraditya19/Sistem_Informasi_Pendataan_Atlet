@@ -15,7 +15,7 @@ Aplikasi dikembangkan menggunakan PHP, MySQL, HTML, dan CSS. **Laragon** digunak
 2. Letakkan folder proyek di `C:\laragon\www\`.
 3. Buat database `pendataan_atlet` melalui HeidiSQL.
 4. Impor file `pendataan_atlet.sql` ke database.
-5. Buka `http://localhost/NAMA_FOLDER/login.php` di browser.
+5. Buka `http://localhost/pendataan_atlet/login.php` di browser.
 
 **Catatan:** Ganti `NAMA_FOLDER` sesuai nama folder proyek. Pastikan file SQL mencakup struktur tabel dan akun admin agar login dapat digunakan setelah database diimpor.
 
